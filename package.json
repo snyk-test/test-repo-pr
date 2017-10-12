@@ -6,9 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
- "dependencies": {
-    "bassmaster": "1.5.1"
-}, 
- "author": "snyk",
- "license": "ISC"
+  "dependencies": {
+    "bassmaster": "1.5.2"
+  },
+  "author": "snyk",
+  "license": "ISC"
 }
